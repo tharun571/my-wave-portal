@@ -24,12 +24,12 @@ module.exports = {
     rinkeby: {
       // This value will be replaced on runtime
       url: ,
-      accounts: ,
+      accounts: [],
     },
     mainnet: {
       chainId: 1,
-      url: "BLAHBLAH",
-      accounts: ,
+      url: ,
+      accounts: [],
     },
   },
 };
